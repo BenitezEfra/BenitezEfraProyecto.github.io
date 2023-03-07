@@ -1,0 +1,55 @@
+.estilo{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 5px outset #328f6f;
+    background-color: #85e190;
+    text-align: center;
+    
+
+
+
+}
+
+.contenedorlista{
+    background-color: #85e190;
+    border: 5px outset #328f6f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+
+
+}
+.texto{
+
+    background-color: #75d38c;
+    border: 5px outset #328f6f;
+    color: white;
+
+}
+.losdemasproblemas{
+
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 5px outset #328f6f;
+    background-color: #85e190;
+    text-align: center;
+
+
+}
+h1 {
+    color:white
+
+}
+.piedep{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 5px outset #328f6f;
+    background-color: #85e190;
+    text-align: center;
+    height: 100%;
+
+}
